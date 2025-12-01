@@ -2,4 +2,5 @@
 Proyecto práctica 5.
 
 ## Integrantes:
-- Jorge Martinez de los Reyes
+- Jorge Martínez de los Reyes
+- Andrés Ignacio Hernández Spagnol
